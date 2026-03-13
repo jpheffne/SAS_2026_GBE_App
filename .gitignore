@@ -1,0 +1,19 @@
+# R history files
+.Rhistory
+.Rapp.history
+
+# R session data
+.RData
+*.RData
+
+# RStudio personal settings
+.Rproj.user/
+.Ruserdata
+
+# Compiled R packages and temporary files
+*.o
+*.so
+*.rds
+
+# Extra
+/extra/
