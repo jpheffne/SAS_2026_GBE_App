@@ -19,10 +19,13 @@ The app implements computational models based on:
 ## Getting Started
 
 ### Prerequisites
-You will need **R** and the following packages:
+You will need **R** , **RStudio**, and the following packages:
 ```r
 install.packages(c("shiny", "tidyverse", "scales"))
 ```
+
+### Starting the app
+Open RStudio and make sure to select the project (`SAS_2026_GBE_App.Rproj`) to ensure relative paths work. Open the `app.R` file and click "Run App" to launch the Shiny app locally. 
 
 ## Future plans
 
