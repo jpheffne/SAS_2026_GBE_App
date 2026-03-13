@@ -13,7 +13,6 @@
 # Compiled R packages and temporary files
 *.o
 *.so
-*.rds
 
 # Extra
 /extra/
